@@ -1,0 +1,24 @@
+.counter{
+    margin-block: 1rem;
+}
+.counter span{
+    margin-inline: 1.3rem;
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+}
+.counter button{
+    border-radius: 4px;
+    padding: 0.4rem 1.1rem;
+    margin-inline: 0.4rem;
+    font-size: 1.7rem;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+.counter .plus{
+    background-color: #67b891;
+}
+.counter .mins{
+    background-color: #ea6369;
+}
