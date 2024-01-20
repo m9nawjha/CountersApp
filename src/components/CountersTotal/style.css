@@ -1,0 +1,10 @@
+.total{
+    margin-top: 1.5rem;
+}
+.total span {
+    background: #69677e;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border-radius: 5px;
+    margin-inline: 0.3rem;
+}
